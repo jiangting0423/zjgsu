@@ -143,7 +143,6 @@
 
 /* 校内链接main-link */
 .main-link{
-	float:left;
 	width:96%;
 	height:300px;
 	margin:10px auto;
@@ -167,7 +166,6 @@
 
 /* 校内链接main-topics */
 .main-topics{
-	float:left;
 	width:96%;
 	height:200px;
 	margin:0px auto 20px auto;
