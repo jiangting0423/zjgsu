@@ -33,6 +33,7 @@ div {margin:0;padding:0}
 	top: 130px;
 	left: 0;
 	background: #fff;
+	box-shadow: 0 0 6px #bbb;
 }
 
 .content {
